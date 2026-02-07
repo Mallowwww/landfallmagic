@@ -1,13 +1,13 @@
 {
-  "Group": "dev.hytalemodding",
-  "Name": "ExamplePlugin",
+  "Group": "world.landfall",
+  "Name": "LandfallMagic",
   "Version": "${version}",
   "Description": "Description of your plugin",
   "Authors": [
     {
-      "Name": "Your Name",
-      "Email": "your.email@example.com",
-      "Url": "https://your-website.com"
+      "Name": "Mallowwww",
+      "Email": "mallowhorton@proton.me",
+      "Url": "https://mallowhorton.com"
     }
   ],
   "Website": "https://your-plugin-website.com",
@@ -16,5 +16,5 @@
   "OptionalDependencies": {},
   "DisabledByDefault": false,
   "IncludesAssetPack": false,
-  "Main": "dev.hytalemodding.ExamplePlugin"
+  "Main": "world.landfall.landfallmagic.MagicPlugin"
 }
